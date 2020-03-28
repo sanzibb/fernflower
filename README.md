@@ -3,6 +3,10 @@
 Fernflower is the first actually working analytical decompiler for Java and 
 probably for a high-level programming language in general.
 
+### About This Repository
+
+It contains the source code that is originally hosted at [intellij-community/plugins/java-decompiler/engine/](https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine). The purpose of this repository is to provide a easiest way to create an executable Jar of fernflower.
+
 ### Licence
 
 Fernflower is licenced under the [Apache Licence Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
